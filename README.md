@@ -34,7 +34,7 @@ Insights:
 
 Se mantuvieron los colores y la tipografía establecidos por Save the Children con el fin de conservar la identidad visual que caracteriza la marca
 
-![arq info](assets/images/TRABAJO FINAL.jpg)
+![arq info](assets/images/AI.jpg)
 
 ## Primer testing
 
