@@ -60,5 +60,8 @@ Insights:
 Al cambiar el tono de comunicación, el público genera un sentimiento de solidaridad en un 83%, lo que nos permite generar un engagement con los usuarios.
 Los colores ahora generan un sentimiento de cooperación y lo relacionan con la cruz roja.
 
+## Prototipo elaborado en Invision
+
+![prototipo](assets/images/prototipo.png)
 
 ![proximos pasos](assets/images/next.jpg)
