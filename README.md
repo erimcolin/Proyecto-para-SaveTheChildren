@@ -40,7 +40,9 @@ Se mantuvieron los colores y la tipografía establecidos por Save the Children c
 
 ## Primer testing
 
-El prototipo planteado como la solución fue testeado por primera vez
+El prototipo planteado como la solución fue testeado por primera vez con las siguientes preguntas 
+
+![primerTesteo](assets/images/primerTesteo.png)
 
 Insights:
 - 57% sintió ganas de ayudar
@@ -48,6 +50,8 @@ Insights:
 - 60% cancelaría el cargo mensual si no es de su agrado el servicio y la información
 
 ## Segundo testing
+
+![segundoTesteo](assets/images/segundoTesteo.png)
 
 El prototipo recibió feedback para modificar aún más el tono rojo pues continuaba pareciéndole muy agresivo
 
