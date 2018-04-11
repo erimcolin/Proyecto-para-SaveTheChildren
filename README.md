@@ -24,6 +24,7 @@ Aumentar el número de donantes recurrentes a través del grant de Google Adword
 
 Seleccionamos una serie de personas que fueron entrevistadas de forma individual para conocer su opinión sobre la página así como sus reacciones. Con este tipo de investigación pudimos medir y analizar su actitud y satisfacción durante el journey de donación.
 
+![flujo-donacion](assets/images/donaPrimeraVez.png)
 
 ```
 Insights:
